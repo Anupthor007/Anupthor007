@@ -1,3 +1,6 @@
+![👋 Hi, my name is Anup Thorat](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+
 # 💫 About Me:
 B.Tech – Artificial Intelligence & Data Science | Final Year<br><br>I'm passionate about building intelligent systems that solve real-world problems. I love working with data, exploring machine learning techniques, and developing impactful software solutions. My interests lie in AI/ML, data engineering, full-stack development, and creating projects that blend technology with creativity.<br><br>🚀 What I Do<br><br>🧠 Machine Learning & Data Science – model building, analytics, and end-to-end ML pipelines<br><br>🛠️ Software & Web Development – Python, FastAPI, React, and modern backend tools<br><br>📊 Data Visualization – Dashboards, insights, and automation<br><br>⚡ Currently working on Autonomous web agent
 
